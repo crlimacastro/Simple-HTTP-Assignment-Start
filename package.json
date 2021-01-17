@@ -1,5 +1,5 @@
 {
-  "name": "Simple-HTTP-Assignment",
+  "name": "simple-http-assignment",
   "version": "1.0.0",
   "description": "First simple HTTP Server that serves different pages according to URL",
   "main": "index.js",
