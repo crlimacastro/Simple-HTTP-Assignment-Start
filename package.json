@@ -1,7 +1,7 @@
 {
-  "name": "Simple-HTTP-Assignment-Start",
+  "name": "Simple-HTTP-Assignment",
   "version": "1.0.0",
-  "description": "",
+  "description": "First simple HTTP Server that serves different pages according to URL",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
